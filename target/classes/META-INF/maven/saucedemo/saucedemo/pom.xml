@@ -4,26 +4,7 @@
   <artifactId>saucedemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <dependencies>
-  <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->
-<dependency>
-    <groupId>io.cucumber</groupId>
-    <artifactId>cucumber-java</artifactId>
-    <version>4.2.0</version>
-</dependency>
-<!-- These are the cucumber-junit dependencies -->
-		<dependency>
-			<groupId>info.cukes</groupId>
-			<artifactId>cucumber-junit</artifactId>
-			<version>1.2.5</version>
-		</dependency>
-
-		<!-- These are the junit dependencies -->
-		<dependency>
-			<groupId>junit</groupId>
-			<artifactId>junit</artifactId>
-			<version>4.12</version>
-		</dependency>
-		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+ 		<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
     <groupId>org.seleniumhq.selenium</groupId>
     <artifactId>selenium-java</artifactId>
